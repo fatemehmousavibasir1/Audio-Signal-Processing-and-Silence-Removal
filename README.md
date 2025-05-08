@@ -17,7 +17,7 @@ Formants are specific frequency bands that carry more energy in human speech. To
 4. Naming the Audio Processing Processes:
 For the processes of silence removal and spectral analysis of audio signals, you could use names that reflect the tasks performed. I would suggest names like "Audio Signal Enhancement" or "Silent Segment Removal and Spectrum Analysis". These names clearly describe the actions taken (enhancing the signal and analyzing its frequency content).
 
-##Requirements
+##  Requirements
 
 Python 3.x
 
