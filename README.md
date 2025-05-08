@@ -1,4 +1,4 @@
-#Audio Signal Processing and Silence Removal
+# Audio Signal Processing and Silence Removal
 ## Overview
 
 This project focuses on audio signal processing techniques, particularly on removing silent segments and performing spectral analysis. It processes audio signals to enhance their useful content and extract meaningful frequency features.
