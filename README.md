@@ -1,8 +1,10 @@
-Audio Signal Processing and Silence Removal
-Overview
+#Audio Signal Processing and Silence Removal
+## Overview
+
 This project focuses on audio signal processing techniques, particularly on removing silent segments and performing spectral analysis. It processes audio signals to enhance their useful content and extract meaningful frequency features.
 
-Features
+## Features
+
 1. Silence Removal from Audio Signals:
 Silence removal can help reduce the data volume and eliminate unnecessary sections of the audio. In this code, silence is removed by setting a threshold for the signal’s intensity (e.g., threshold set to 1000). Parts of the signal with low intensity (considered silence) are discarded. This step improves the efficiency of subsequent analyses by keeping only the sections of the signal that contain meaningful information.
 
@@ -14,7 +16,9 @@ Formants are specific frequency bands that carry more energy in human speech. To
 
 4. Naming the Audio Processing Processes:
 For the processes of silence removal and spectral analysis of audio signals, you could use names that reflect the tasks performed. I would suggest names like "Audio Signal Enhancement" or "Silent Segment Removal and Spectrum Analysis". These names clearly describe the actions taken (enhancing the signal and analyzing its frequency content).
-Requirements
+
+##Requirements
+
 Python 3.x
 
 NumPy: For numerical operations.
